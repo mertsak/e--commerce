@@ -7,12 +7,12 @@ I'm a Front-end Developer
 
 **Client:** React, TailwindCSS , Next.js , TypeScript , Javascript , ReduxToolkit
 
-**Server:** Mock data api
+**Server:** https://fakestoreapi.com/products
 
 
 ## Demo
 
-e-commerce-tau-orpin.vercel.app
+https://e-commerce-tawny-two.vercel.app
 
 
 ## Installation
